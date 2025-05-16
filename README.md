@@ -4,5 +4,5 @@ I enjoy turning complex data into clear, meaningful stories that help businesses
 
 ##🎓Education
 - **MBA in Business and Data Analysis**
- -Yenepoya Deemed to be University 
--**2022-2024**
+- Yenepoya Deemed to be University
+- **2022-2024**

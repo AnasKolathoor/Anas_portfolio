@@ -1,10 +1,6 @@
-# 🌟 About Me
-I'm a Business and Data Analyst.Passionate about transforming raw data into actionable insights, I work with tools like **Power BI**, **Excel**, **SQL**, and **DAX** to create dashboards, improve reporting, and support data-driven decisions.
-I enjoy turning complex data into clear, meaningful stories that help businesses grow and perform better.
+## 🛠 Tools & Skills  
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
+![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
 
-## 🎓 Education
-
-- **MBA in Business and Data Analysis**  
-  Yenepoya Deemed to be University  
-  *2022 – 2024*
 

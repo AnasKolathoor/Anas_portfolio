@@ -8,6 +8,6 @@ My goal is to turn raw data into clear, meaningful insights that help teams grow
 
 ##🎓 Education
 -**MBA in Business and Data Analysis**
-Yenepoya (Deemed to be University)
-**2022 - 2024**
+-Yenepoya (Deemed to be University)
+-**2022 - 2024**
 

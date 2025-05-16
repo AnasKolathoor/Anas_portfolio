@@ -3,6 +3,6 @@ I'm a Business and Data Analyst.Passionate about transforming raw data into acti
 I enjoy turning complex data into clear, meaningful stories that help businesses grow and perform better.
 
 ##🎓 Education
-**MBA in Business and Data Analysis**
+- **MBA in Business and Data Analysis**
 Yenepoya Deemed to be University 
 **2022-2024**

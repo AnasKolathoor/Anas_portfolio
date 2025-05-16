@@ -9,7 +9,7 @@ I am a Business and Data Analyst with a strong background in analyzing data to s
 Yenepoya (Deemed to be University)    
 2022 – 2024
 
-##🛠 Tools & Skills  
+## 🛠 Tools & Skills   
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
